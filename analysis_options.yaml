@@ -1,0 +1,21 @@
+# Analysis options for the glowing_wave_button package
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Additional rules for better code quality
+    prefer_const_constructors: true
+    prefer_const_literals_to_create_immutables: true
+    prefer_const_declarations: true
+    avoid_unnecessary_containers: true
+    avoid_print: true
+    avoid_web_libraries_in_flutter: true
+    prefer_relative_imports: true
+
+    # Documentation
+    public_member_api_docs: false # Set to true if you want to enforce documentation
+
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
