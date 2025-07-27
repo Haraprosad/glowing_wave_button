@@ -2,7 +2,7 @@
 
 A beautiful animated button widget with glowing wave effects and floating words for Flutter applications. Perfect for meditation, relaxation, and interactive UI elements.
 
-![Glowing Wave Button Demo](https://raw.githubusercontent.com/Haraprosad/glowing_wave_button/refs/heads/main/assets/glowing_wave_demo.gif)
+![Glowing Wave Button Demo](https://raw.githubusercontent.com/Haraprosad/glowing_wave_button/refs/heads/main/assets/glowing_wave_only.gif)
 
 ## Features
 
@@ -15,13 +15,13 @@ A beautiful animated button widget with glowing wave effects and floating words 
 - 🎭 **Breathing Animation**: Gentle scaling effect for a calming user experience
 
 ### Wave Effects
-![Wave Effects Demo](https://raw.githubusercontent.com/Haraprosad/glowing_wave_button/refs/heads/main/assets/glowing_wave_demo.gif)
+![Wave Effects Demo](https://raw.githubusercontent.com/Haraprosad/glowing_wave_button/refs/heads/main/assets/glowing_wave_only.gif)
 
-<!-- Add these when you have the other GIFs -->
-<!-- 
 ### Floating Words Mode
-![Floating Words Demo](https://raw.githubusercontent.com/Haraprosad/glowing_wave_button/refs/heads/main/assets/floating_words_demo.gif)
+![Floating Words Demo](https://raw.githubusercontent.com/Haraprosad/glowing_wave_button/refs/heads/main/assets/glowing_wave_demo.gif)
 
+<!-- Add this when you have the button variations GIF -->
+<!-- 
 ### Button Variations
 ![Button Variations Demo](https://raw.githubusercontent.com/Haraprosad/glowing_wave_button/refs/heads/main/assets/button_variations.gif)
 -->
