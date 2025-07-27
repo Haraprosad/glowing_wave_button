@@ -32,7 +32,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  glowing_wave_button: ^1.0.0
+  glowing_wave_button: ^1.0.1
 ```
 
 Then run:
