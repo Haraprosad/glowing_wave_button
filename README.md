@@ -2,7 +2,7 @@
 
 A beautiful animated button widget with glowing wave effects and floating words for Flutter applications. Perfect for meditation, relaxation, and interactive UI elements.
 
-![Glowing Wave Button Demo](https://shorturl.at/HvZaf)
+![Glowing Wave Button Demo](assets/glowing_wave_demo.gif)
 
 ## Features
 
@@ -13,6 +13,18 @@ A beautiful animated button widget with glowing wave effects and floating words 
 - 🖼️ **Icon or Image Support**: Use built-in icons or custom image widgets
 - 🔄 **State Management**: Manual activation and automatic state handling
 - 🎭 **Breathing Animation**: Gentle scaling effect for a calming user experience
+
+### Wave Effects
+![Wave Effects Demo](assets/glowing_wave_demo.gif)
+
+<!-- Add these when you have the other GIFs -->
+<!-- 
+### Floating Words Mode
+![Floating Words Demo](assets/floating_words_demo.gif)
+
+### Button Variations
+![Button Variations Demo](assets/button_variations.gif)
+-->
 
 ## Installation
 
